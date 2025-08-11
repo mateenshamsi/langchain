@@ -11,3 +11,8 @@ langchain-huggingface
 faiss-cpu
 
 langchain_chroma
+beautifulsoup4
+langchain_groq
+fastapi
+uvicorn 
+langserve 
