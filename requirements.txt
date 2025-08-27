@@ -9,7 +9,7 @@ langchain-openai
 sentence-transformers
 langchain-huggingface
 faiss-cpu
-
+langchain-anthropic
 langchain_chroma
 beautifulsoup4
 langchain_groq
